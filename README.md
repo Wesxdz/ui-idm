@@ -6,4 +6,4 @@ Collecting generic desktop navigation data is a security and privacy hazard, yet
 
 Here I open source tooling for data collection to self-train user interface navigation for agents.
 
-![](https://github.com/Wesxdz/ui-idm/events.gif)
+![](events.gif)
