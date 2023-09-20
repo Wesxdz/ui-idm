@@ -7,3 +7,8 @@ Collecting generic desktop navigation data is a security and privacy hazard, yet
 Here I open source tooling for data collection to self-train user interface navigation for agents.
 
 ![](events.gif)
+
+Use an up-to-date version of OBS with websocket/remote control builtin.
+Tools->WebSocket Server Settings->
+Enable WebSocket server
+Disable Authentication (or update idm.py file)
